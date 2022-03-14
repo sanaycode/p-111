@@ -1,0 +1,31 @@
+.heading{
+    font-size:19px;
+    letter-spacing: 10px;
+    border-radius:10px;
+  }
+  .ugh{
+      font-size:22px;
+  }
+  .ughi{
+      font-size:26.5px;
+  }
+  .interesting{
+      font-size:17px;
+  }
+  body{
+      color:white;
+      background-color:rgb(43, 87, 146);
+  }
+  label{
+    font-size:14px;
+    color:lime;
+    background-color:white;
+    border-radius:10px;
+    padding:6px;
+  }
+  #camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
